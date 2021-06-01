@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CamiloBeltran24
+- 👋 Hi, I’m @CamiloBeltran
 - 👀 I'm interested in front-end development and React.js. I'm a CSS lover and I never stop learning...
 - 🌱 I'm currently learning Web Development, I'm excited about technologies like React.js, CSS, SCSS, JavaScript and all the technologies that make the web great.
 - 💞️ I am looking to collaborate in open source web development projects and all those projects that can improve my experience and development skills..
