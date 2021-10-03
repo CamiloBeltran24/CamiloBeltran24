@@ -1,6 +1,7 @@
 # 👋 Hello There. 
 ## I’m Camilo Beltran 👽
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23068D00CF&lines=Frontend+Developer,+CSS+|+JS+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000EB&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ### I'm a Colombian Frontend Developer "Colombiano de pura cepa", 💻 CSS & JavaScript lover 💻🤟, I believe in the never stop learning theory, so since 2017 (when i met the programming and discovered a new passion) i never stop learning.📚👀  
 - 🌱 I'm currently learning Web Development, I'm interested in learning React.js and, why not?. All the technologies that make the web great
 - 💞️ I am looking to collaborate in Frontend, Web Development or Open Source Projects that can improve my experience and development skills.
