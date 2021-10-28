@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught passionate frontend developer from Colombia</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=%23000000EB&lines=Frontend+Developer+💻;CSS+|+JavaScript+Lover+💛💻🤟;)](https://git.io/typing-svg)
-### I'm a Colombian Frontend Developer 💻 "Colombiano de pura cepa" CSS & JavaScript lover 💻🤟
+### I'm a Colombian Frontend Developer 💻 "Colombiano de pura cepa" => CSS & JavaScript lover 💻🤟
 I'm a self-taught passionate developer and I believe in the never stop learning theory, So since 2017 when i meet the programming I constantly try to learn new technologies.📚👀  
 - 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on ***Frontend and Open Source Projects***.
