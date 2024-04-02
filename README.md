@@ -27,10 +27,13 @@ I'm a self-taught passionate developer and I believe in the never stop learning 
 
 
 ## 📫 Connect with me: !
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/CamiloBeltran24)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilobeltran24/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/CamiloBeltran)
-[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/camilobeltran24/)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/CamiloBeltran24){:target="_blank"}
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilobeltran24/){:target="_blank"}
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/CamiloBeltran){:target="_blank"}
+
+[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/camilobeltran24/){:target="_blank"}
 
 ## 
 
