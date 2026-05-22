@@ -33,7 +33,6 @@ I'm a self-taught passionate developer and I believe in the never stop learning 
 
 ## 
 
-<p align="left"> <a href="https://twitter.com/camilobeltran" target="blank"><img src="https://img.shields.io/twitter/follow/camilobeltran?logo=twitter&style=for-the-badge" alt="camilobeltran" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilobeltran24&label=Profile%20views&color=0e75b6&style=flat" alt="camilobeltran24" /> </p>
         
 
