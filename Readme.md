@@ -1,5 +1,5 @@
 <h1 align="center">Hello There. 👋, I'm Christian Camilo 👽</h1>
-<h3 align="center">A Colombian self-taught passionate Frontend Developer</h3>
+<h3 align="center">A Colombian self-taught passionate IOS / Frontend Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=%23ffffffEB&lines=Frontend+Developer+💻;CSS+|+JS+Lover+💛💻🤟;)](https://git.io/typing-svg)
 ### I'm a Colombian Frontend Developer 💻 "Colombiano de pura cepa" => CSS & JavaScript lover 💻🤟
