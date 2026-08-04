@@ -41,10 +41,8 @@ I'm a passionate developer with over 4 years of experience, currently working as
 
 ### 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloBeltran24&show_icons=true&theme=transparent" alt="Christian's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloBeltran24&layout=compact&theme=transparent" alt="Top Langs" height="150" />
-</div>
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloBeltran24&show_icons=true&theme=transparent)](https://github.com/CamiloBeltran24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloBeltran24&layout=compact&theme=transparent)](https://github.com/CamiloBeltran24)
 
 <br>
 <p align="left"> 
