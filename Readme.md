@@ -16,7 +16,7 @@ I'm a passionate developer with over 4 years of experience, currently working as
 - 📂 **Continuous Learning:** I document my tech journey, architectures, and study notes in my [**my-learning-path**](https://github.com/CamiloBeltran24/my-learning-path) repository.
 - 🚀 **What I'm building:** Designing a mobile app architecture for motorcycle maintenance/logistics and testing automated bots deployed on Google Cloud Platform (GCP).
 - 👯 **Looking to collaborate on:** Frontend, iOS, and Open Source Projects.
-- ⚡ **Fun facts:** MTB Biker 🚴, massive Madridista ⚽️🤍, and occasional Gamer (currently recreating Mourinho's Madrid tactical system in FIFA 25 🎮).
+- ⚡ **Fun facts:** MTB Biker 🚴, massive Madridista ⚽️🤍, and occasional Gamer 🎮.
 
 ---
 
