@@ -1,4 +1,4 @@
-<h1 align="center">Hello There. 👋, I'm Christian (Chris) 👽</h1>
+<h1 align="center">Hello There. 👋, I'm Christian 👽</h1>
 <h3 align="center">Frontend Developer & iOS Enthusiast 📱 | From Colombia 🇨🇴</h3>
 
 <div align="center">
