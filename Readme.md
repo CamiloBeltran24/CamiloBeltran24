@@ -1,5 +1,5 @@
 <h1 align="center">Hello There. 👋, I'm Christian (Chris) 👽</h1>
-<h3 align="center">Lead Frontend Developer & iOS Enthusiast 📱 | From Colombia 🇨🇴</h3>
+<h3 align="center">Frontend Developer & iOS Enthusiast 📱 | From Colombia 🇨🇴</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
