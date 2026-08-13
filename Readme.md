@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 I'm a passionate developer with over 4 years of experience, currently working as a Frontend Developer. I love transforming complex designs into clean, interactive, and semantic interfaces. I'm a firm believer in the "never stop learning" theory, constantly pushing my boundaries in tech. 📚👀
 
-- 🌱 **Currently focusing on:** Advanced iOS Development (Swift/SwiftUI), Cloud architectures, and AI integration in workflows (using Antigravity IDE & agents).
+- 🌱 **Currently focusing on:** Advanced React Development, Cloud architectures, and AI integration in workflows (using Antigravity IDE & agents).
 - 📂 **Continuous Learning:** I document my tech journey, architectures, and study notes in my [**my-learning-path**](https://github.com/CamiloBeltran24/my-learning-path) repository.
 - 👯 **Looking to collaborate on:** Frontend, iOS, and Open Source Projects.
 - ⚡ **Fun facts:** MTB Biker 🚴, massive Madridista ⚽️🤍, and occasional Gamer 🎮.
